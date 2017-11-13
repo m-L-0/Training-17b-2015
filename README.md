@@ -2,10 +2,11 @@
 
 本方向课程实训以作业形式开展，学生根据要求完成每次作业任务，教师按照评分项给予成绩。
 
-## 作业发布
+## 作业列表
 
-每次实训作业会发布到Github组织[m-L-0](https://github.com/m-L-0)的
-[**Training-17b-2015**](https://github.com/m-L-0/training-17b-2015) Repo中。
+1. [FashionMNIST_Challenge](./FashionMNIST_Challenge.md)
+
+
 
 ## 作业提交
 
