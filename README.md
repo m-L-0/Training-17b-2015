@@ -33,6 +33,6 @@
 
 ## 脚注
 
-<sup><a id="fn.1" class="footnum" href="#fnr.1">1</a></sup> 确保已创建Github账户，并将账户**Name**改为**“姓名-年级”**的形式，如：“李XX-2015”。
+<sup><a id="fn.1" class="footnum" href="#fnr.1">1</a></sup> 确保已创建Github账户，并将账户**Name**改为 **“姓名-年级”** 的形式，如：“李XX-2015”。
 
 <sup><a id="fn.2" class="footnum" href="#fnr.2">2</a></sup> 创建Repo时指定其**Owner**为**m-L-0**，可参考[Create A Repo](https://help.github.com/articles/create-a-repo/)。
