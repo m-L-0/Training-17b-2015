@@ -6,6 +6,7 @@
 
 1. [FashionMNIST_Challenge](./FashionMNIST_Challenge.md)
 2. [Vehicle_License_Plate_Recognition](./Vehicle_License_Plate_Recognition.md)
+3. [CaptchaRecognition](./CaptchaRecognition.md)
 
 
 ## 作业提交
